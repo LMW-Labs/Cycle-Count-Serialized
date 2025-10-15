@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/serialized-cycle-count/:path*",
+      "destination": "https://cycle-count-serialized.vercel.app/:path*"
+    }
+  ]
+}
