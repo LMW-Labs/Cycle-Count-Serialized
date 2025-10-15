@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default BarcodeReconciler;
+export default App;
